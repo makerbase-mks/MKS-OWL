@@ -1,0 +1,103 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "e:/fly52072/OWL/software/MKS_OWL/Marlin",
+                "e:/fly52072/OWL/software/MKS_OWL/.pio/libdeps/MKS_OWL/Adafruit NeoPixel",
+                "e:/fly52072/OWL/software/MKS_OWL/.pio/libdeps/MKS_OWL/lvgl",
+                "e:/fly52072/OWL/software/MKS_OWL/.pio/libdeps/MKS_OWL/lvgl/src",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/libraries/Servo/src",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/cores/arduino",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/include",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/system",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/class",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/class/cdc",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/include",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/source",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/source/lpcip3511",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/host",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/host/class",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/include",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/phy",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs/source",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs/source/fsl_ram_disk",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs/source/fsl_usb_disk",
+                "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/lpc5528",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "e:/fly52072/OWL/software/MKS_OWL/Marlin",
+                    "e:/fly52072/OWL/software/MKS_OWL/.pio/libdeps/MKS_OWL/Adafruit NeoPixel",
+                    "e:/fly52072/OWL/software/MKS_OWL/.pio/libdeps/MKS_OWL/lvgl",
+                    "e:/fly52072/OWL/software/MKS_OWL/.pio/libdeps/MKS_OWL/lvgl/src",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/libraries/Servo/src",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/cores/arduino",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/include",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/system",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/class",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/class/cdc",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/include",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/source",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/device/source/lpcip3511",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/host",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/host/class",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/include",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/usb/phy",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs/source",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs/source/fsl_ram_disk",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/CMSIS/lib/fatfs/source/fsl_usb_disk",
+                    "C:/Users/Administrator/.platformio/packages/framework-arduino-lpc5528/system/lpc5528",
+                    ""
+                ]
+            },
+            "defines": [
+                "LPC5528_FRAMEWORK",
+                "TARGET_LPC5528",
+                "F_CPU=150000000L",
+                "MCU_LPC5528",
+                "PIO_PLATFORM_VERSION=1000002UL",
+                "PIO_FRAMEWORK_VERSION=2002UL",
+                "CPU_LPC55S28JBD100",
+                "USB_STACK_BM",
+                "USB_STACK_USE_DEDICATED_RAM=1",
+                "USBCON",
+                "PLATFORMIO=60106",
+                "__MARLIN_FIRMWARE__",
+                "NDEBUG",
+                "ARDUINOLPC55",
+                "USBHOST",
+                "ARDUINO=10808",
+                "BOARD_F_CPU=150000000L",
+                "ARDUINO_ARCH_LPC5528",
+                "ARDUINOLPC=10805",
+                ""
+            ],
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Users/Administrator/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mfpu=fpv5-sp-d16",
+                "-mfloat-abi=soft",
+                "-mcpu=cortex-m33",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

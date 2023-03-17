@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "u8g.h": "c",
+        "printable.h": "c",
+        "arduino.h": "c"
+    }
+}
